@@ -28,3 +28,11 @@ By combining **Python** for raw data generation, **Excel** for cohort model vali
 ---
 
 ## 📁 Repository Structure
+```text
+.
+├── B2B_SaaS_Retention_Dashboard.pbix   # Interactive Power BI Retention & Churn Report
+├── generate_saas_data.py               # Python script for generating billing logs & cohort features
+├── Raw_SaaS_Billing_Logs.csv           # Raw simulated B2B SaaS subscription & billing data
+├── dashboard_preview.png               # Executive dashboard visual preview
+└── README.md                           # Project documentation & portfolio overview
+```
